@@ -6,6 +6,12 @@ const About=()=>{
             <br />
             <br />
             <Link href="/"> Go to Home page</Link>
+         <br />
+         <br />
+            <Link href="about/aboutcollege"> Go to  about college page</Link>
+            <br />
+            <br />
+            <Link href="about/aboutstudent"> Go to  about college page</Link>
         </div>
     )
 }
