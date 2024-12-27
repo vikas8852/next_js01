@@ -9,10 +9,10 @@ export default function Layout({
         <ul className="login-menu">
             <li> <h4>Navbar</h4></li>
             <li  >
-                <Link href="/login">Login Main</Link>
+                <Link href="/login">Login Main </Link>
             </li>
             <li>
-                <Link href="/login/loginstudent"> Student Login </Link>
+                <Link href="/login/loginstudent"> Students login </Link>
             </li>
             <li>
                 <Link href="/login/loginteacher"> Teacher Login</Link>
