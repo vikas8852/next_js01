@@ -7,5 +7,6 @@ export  function middleware(request){
   // }
 }
 export const config={
-    matcher:["/about/:path*","/studentlist/:path*"]
+    matcher:["/about/aboutcollege","/studentlist/:path*"]
 }
+//for 1  routing the only about/aboutcollege page   and /studentlist/:path for all path inside studentlist
